@@ -1,0 +1,5 @@
+#print("hello word")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
